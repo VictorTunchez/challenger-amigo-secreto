@@ -8,9 +8,8 @@ Desafio de Alura Latam
 . Asignar al usuario un amigo secreto del sorteo aleatorio 
 . Mostrar los resultados del sorteo, indicando quién es el amigo secreto 
 
---Actualmente tenemos el archivo base del proyecto
-Estructura en HTML
-Diseño en CSS
+--Actualmente
+Proyecto finalizado, cumple con todos los requerimiento basicos que se plantearon en el challenger
 
 --Proximamente
-Implmentaremos las funciones 
+Posibles mejoras y optimizaciones en el codigo
